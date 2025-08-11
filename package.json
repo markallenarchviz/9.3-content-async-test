@@ -23,7 +23,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint-config-trybe-fundamentals": "1.1.0",
-    "jest": "24.9.0",
+    "jest": "30.0.5",
     "mocha": "7.1.1",
     "mochawesome": "5.0.0",
     "mochawesome-merge": "4.0.3",
